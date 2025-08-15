@@ -35,8 +35,11 @@ To identify major CO₂ sources and high-emission regions so businesses can targ
 
   ## Project Insights.
   -Rising Risk: CO₂ emissions increased consistently from 2019 to 2022, with 2022 marking the highest level—indicating growing environmental and regulatory risk.
+  
   -Top Source: Paper and folder production is the largest single contributor to emissions.
+  
   -Regional Concentration: California (33%) and Texas (20%) together account for over half of total emissions, meaning focused interventions here could deliver maximum impact with    minimal resource spread.
+  
   -Operational Opportunity: Targeting high-emission states and high-emission products aligns with ESG goals, reduces potential carbon tax liabilities, and improves brand              reputation.
 
   ## Final Conclusion.
