@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-I have developed a comprehensive dashboard using Tableau, Creating Multiple Dashboard to analyse the data.This Process involve multiple stage including data processing, data cleaning and data visualisation.
+# Carbon Emission Insights (Interactive dashboard creation using Tableau)
+## Project Objective
+To analyze and visualize CO₂ emissions from multiple perspectives — yearly trends, major contributing items, and statewise breakdown — to identify key sources and patterns for better environmental decision-making.
+
