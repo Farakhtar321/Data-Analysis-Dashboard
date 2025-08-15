@@ -14,10 +14,10 @@ To analyze and visualize CO₂ emissions from multiple perspectives — yearly t
 – What is the proportion of different emission types in each state?
 – Which state leads in each type of emission?
 
--Dashboard interaction <a herf = "https://github.com/Farakhtar321/Data-Analysis-Dashboard/blob/main/Carbon%20emission%20insights.png">view Dashboard</a>
-                       <a herf = "https://github.com/Farakhtar321/Data-Analysis-Dashboard/blob/main/Top%20CO2%20Contributors.png">view Dashboard</a>
-                       <a herf = "https://github.com/Farakhtar321/Data-Analysis-Dashboard/blob/main/State%20carbon%20share%20analysis.png">view Dashboard</a>
-                       <a herf = "https://github.com/Farakhtar321/Data-Analysis-Dashboard/blob/main/Hierarchical%20Emission%20Insights.png">view Dashboard</a>
+-Dashboard interaction <a href = "https://github.com/Farakhtar321/Data-Analysis-Dashboard/blob/main/Carbon%20emission%20insights.png">view Dashboard</a>
+                       <a href = "https://github.com/Farakhtar321/Data-Analysis-Dashboard/blob/main/Top%20CO2%20Contributors.png">view Dashboard</a>
+                       <a href = "https://github.com/Farakhtar321/Data-Analysis-Dashboard/blob/main/State%20carbon%20share%20analysis.png">view Dashboard</a>
+                       <a href = "https://github.com/Farakhtar321/Data-Analysis-Dashboard/blob/main/Hierarchical%20Emission%20Insights.png">view Dashboard</a>
 
   ## Dashboard                     
  
