@@ -6,6 +6,7 @@ To analyze and visualize CO₂ emissions from multiple perspectives — yearly t
 -<a href = "https://github.com/Farakhtar321/Data-Analysis-Dashboard/blob/main/Dashboard%2BDesign%2BData%2BSet.csv"> Dataset</a>
 
 ## Questions (KPIs)
+
 – What is the total CO₂ emitted.
 – By what percentage have CO₂ emissions increased or decreased year-over-year?
 – Which items or sectors are responsible for the highest share of emissions?
