@@ -19,6 +19,15 @@ To analyze and visualize CO₂ emissions from multiple perspectives — yearly t
                        <a href = "https://github.com/Farakhtar321/Data-Analysis-Dashboard/blob/main/State%20carbon%20share%20analysis.png">view Dashboard</a>
                        <a href = "https://github.com/Farakhtar321/Data-Analysis-Dashboard/blob/main/Hierarchical%20Emission%20Insights.png">view Dashboard</a>
 
-  ## Dashboard                     
+  ## Dashboard
+
+  <img width="1440" height="872" alt="Carbon emission insights" src="https://github.com/user-attachments/assets/1e5a2ced-4fe0-4502-b7f3-3491094e52b9" />
+  <img width="1432" height="810" alt="Top CO2 Contributors" src="https://github.com/user-attachments/assets/ea7a66ea-aae1-4f71-b2ec-23d72d1b4e81" />
+  <img width="1438" height="865" alt="State carbon share analysis" src="https://github.com/user-attachments/assets/e91df200-f742-4a48-a6e7-de4b5208ae24" />
+  <img width="1440" height="871" alt="Hierarchical Emission Insights" src="https://github.com/user-attachments/assets/a04df808-4c44-4957-98ea-c5a77e94e851" />
+
+
+
+
  
 
