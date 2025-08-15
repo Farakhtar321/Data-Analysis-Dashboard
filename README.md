@@ -1,6 +1,6 @@
 # Carbon Emission Insights (Interactive dashboard creation using Tableau)
 ## Project Objective
-To analyze and visualize CO₂ emissions from multiple perspectives — yearly trends, major contributing items, and statewise breakdown — to identify key sources and patterns for better environmental decision-making.
+To identify major CO₂ sources and high-emission regions so businesses can target sustainability efforts where they will have the greatest impact.
 
 ## Dataset Used
 -<a href = "https://github.com/Farakhtar321/Data-Analysis-Dashboard/blob/main/Dashboard%2BDesign%2BData%2BSet.csv"> Dataset</a>
@@ -34,15 +34,13 @@ To analyze and visualize CO₂ emissions from multiple perspectives — yearly t
   <img width="1440" height="871" alt="Hierarchical Emission Insights" src="https://github.com/user-attachments/assets/a04df808-4c44-4957-98ea-c5a77e94e851" />
 
   ## Project Insights.
-  -Overall Trend: CO₂ emissions have steadily increased from 2019 to 2022, with 2022 being the worst year in the period studied.
+  -Rising Risk: CO₂ emissions increased consistently from 2019 to 2022, with 2022 marking the highest level—indicating growing environmental and regulatory risk.
   -Top Source: Paper and folder production is the largest single contributor to emissions.
-  -State Hotspots:
-    ~California produces the highest share of emissions at 33%.
-    ~Texas follows with 20%.
-  -Combined Impact: California and Texas together account for over half of total emissions, making them critical focus areas for emission reduction.
+  -Regional Concentration: California (33%) and Texas (20%) together account for over half of total emissions, meaning focused interventions here could deliver maximum impact with    minimal resource spread.
+  -Operational Opportunity: Targeting high-emission states and high-emission products aligns with ESG goals, reduces potential carbon tax liabilities, and improves brand              reputation.
 
   ## Final Conclusion.
-   -CO₂ emissions rose steadily from 2019 to 2022, peaking in 2022. The biggest contributor is paper and folder production, with California (33%) and Texas (20%) together              responsible for over half of total emissions. Targeted action in these areas could yield the greatest reduction in overall emissions.
+   -The data shows a clear upward trend in emissions, peaking in 2022, with paper and folder production in California and Texas driving the majority of the impact. From a business standpoint, prioritizing digital transformation, supply chain optimization, and state-focused emission reduction programs could significantly cut costs, lower future compliance risks, and strengthen sustainability credentials—delivering both environmental and financial returns.
 
 
 
